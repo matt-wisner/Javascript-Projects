@@ -1,5 +1,5 @@
 # Javascript-Projects
-Projects designed in for algorithms class at Cal State Fullerton
+Projects created for algorithms class at Cal State Fullerton
 
 Some portions of the project were provided by the professor Charles Siska
 
